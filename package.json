@@ -1,0 +1,25 @@
+{
+  "name": "ts_ejercicios_programacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiandriu94/TS_Ejercicios_Programacion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiandriu94/TS_Ejercicios_Programacion/issues"
+  },
+  "homepage": "https://github.com/javiandriu94/TS_Ejercicios_Programacion#readme",
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
