@@ -8,7 +8,7 @@ const reversedString = (text:string):string => {
     let n = text.length
     for (let i = 0; i < n; i++ ){
         if(isLetter(text[i])){
-            filtered+=text[i]
+            filtered+=text[i].toLowerCase()
         }
     }
     n = filtered.length
